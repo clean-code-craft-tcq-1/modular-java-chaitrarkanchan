@@ -1,6 +1,6 @@
 package colorcoder;
 
-public class Main {
+public class ColorCodeTester {
 
 	public static void main(String[] args) {
 
